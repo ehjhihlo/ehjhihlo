@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, this is Leo 👋
+- From Taipei, Taiwan.  
+- 🔭 Currently studying M.S. in Electrical Engineering @ National Taiwan University.  
+- 🌱 Research about Deep Learning, Computer Vision, Action Recognition and Pose estimation.   
+- 📫 How to reach me: leo4455667776@gmail.com  
 <!--
 **ehjhihlo/ehjhihlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
